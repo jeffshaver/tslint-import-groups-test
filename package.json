@@ -1,0 +1,14 @@
+{
+  "name": "tslint-import-groups-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "5.11.0",
+    "tslint-import-group": "git+ssh://git@github.com:jeffshaver/tslint-import-groups.git",
+    "typescript": "3.0.1"
+  },
+  "dependencies": {
+    "tslint-react": "^3.6.0"
+  }
+}

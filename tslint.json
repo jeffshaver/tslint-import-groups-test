@@ -1,0 +1,7 @@
+{
+  "extends": "tslint-import-group",
+  "rules": {
+    "my-import-groups": [true],
+    "newline-before-return": [true]
+  }
+}
